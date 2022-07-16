@@ -1,4 +1,5 @@
 {
     "name": "ddt/composer_test",
+    "type": "library",
     "description": "描述信息"
 }
